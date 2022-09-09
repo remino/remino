@@ -2,7 +2,7 @@
 
 - Names: Rémi, Rémino, Rem.
 - Web developer since 1998. Tested first site in Netscape 3.
-- Speak English, French, Japanese.
+- Speaking English, French, Japanese.
 - Living in Japan since 2009. From Canada.
 - Working as mentor and "full-stack" developer.
 - Known terminal junkie and keyboard freak.
