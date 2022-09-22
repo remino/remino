@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rem!
 
 - Names: Rémi, Rémino, Rem.
+  - Regexp: `/^([Rr][eé]m(i(no)?)?|R[EÉ]M(I(NO)?)?)$/`.
 - Web developer since 1998. Tested first site in Netscape 3.
 - Speaking English, French, Japanese.
 - Living in Japan since 2009. From Canada.
