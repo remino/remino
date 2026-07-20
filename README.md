@@ -11,4 +11,6 @@ Solutions Architect in Tokyo. Building since 1996.
 
 Learn more about me on my site:
 
-<a href="https://remino.net/"><img src="btn.gif" width=176 height=62 /><br><strong>remino.net</strong></a>
+<a href="https://remino.net/"><img src="btn.gif" alt="RÉMINO" width=176 height=62 /></a>
+
+[**remino.net**](https://remino.net/)
